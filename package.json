@@ -1,0 +1,13 @@
+{
+  "id": "deezer",
+  "name": "Deezer",
+  "version": "0.1.0",
+  "description": "Deezer",
+  "main": "index.js",
+  "author": "Gleiton Campos",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.deezer.com/en/",
+    "hasTeamID": false
+  }
+}
